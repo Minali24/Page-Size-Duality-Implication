@@ -1,0 +1,15 @@
+
+ Performance counter stats for process id '2745':
+
+     1,877,923,719      dTLB-loads                                                    (35.85%)
+         8,312,941      dTLB-load-misses          #    0.44% of all dTLB cache hits   (22.84%)
+     1,069,655,817      dTLB-stores                                                   (6.25%)
+         1,091,425      dTLB-store-misses                                             (4.03%)
+       160,676,236      cache-references                                              (3.57%)
+        18,237,768      cache-misses              #   11.351 % of all cache refs      (4.90%)
+     8,244,471,001      cpu-cycles                                                    (6.30%)
+                 0      major-faults                                                
+                 0      minor-faults                                                
+
+      41.741022700 seconds time elapsed
+

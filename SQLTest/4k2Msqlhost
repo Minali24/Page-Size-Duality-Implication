@@ -1,0 +1,15 @@
+
+ Performance counter stats for process id '5309':
+
+     2,377,754,081      dTLB-loads                                                    (32.10%)
+        11,671,644      dTLB-load-misses          #    0.49% of all dTLB cache hits   (22.81%)
+       714,756,767      dTLB-stores                                                   (7.64%)
+         1,189,723      dTLB-store-misses                                             (3.32%)
+       206,111,030      cache-references                                              (3.33%)
+        11,748,198      cache-misses              #    5.700 % of all cache refs      (4.64%)
+     8,614,388,861      cpu-cycles                                                    (6.14%)
+                 0      major-faults                                                
+                18      minor-faults                                                
+
+      47.230834551 seconds time elapsed
+

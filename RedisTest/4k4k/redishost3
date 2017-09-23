@@ -1,0 +1,15 @@
+
+ Performance counter stats for process id '3055':
+
+     6,770,844,697      dTLB-loads                                                    (33.09%)
+        32,004,093      dTLB-load-misses          #    0.47% of all dTLB cache hits   (21.79%)
+     3,314,131,151      dTLB-stores                                                   (7.55%)
+         5,791,602      dTLB-store-misses                                             (3.76%)
+       707,554,049      cache-references                                              (3.62%)
+        33,039,916      cache-misses              #    4.670 % of all cache refs      (4.79%)
+    28,976,604,730      cpu-cycles                                                    (6.27%)
+                 0      major-faults                                                
+                40      minor-faults                                                
+
+      80.472585914 seconds time elapsed
+
