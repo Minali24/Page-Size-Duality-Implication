@@ -1,0 +1,15 @@
+
+ Performance counter stats for process id '7291':
+
+       171,827,597      dTLB-loads                                                    (48.28%)
+         2,838,326      dTLB-load-misses          #    1.65% of all dTLB cache hits   (36.91%)
+        42,808,900      dTLB-stores                                                   (3.17%)
+           215,464      dTLB-store-misses                                             (3.15%)
+        18,960,905      cache-references                                              (3.18%)
+         1,336,001      cache-misses              #    7.046 % of all cache refs      (4.77%)
+       987,596,324      cpu-cycles                                                    (6.35%)
+                 0      major-faults                                                
+                 0      minor-faults                                                
+
+      32.270394261 seconds time elapsed
+
