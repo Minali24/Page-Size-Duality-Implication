@@ -1,0 +1,15 @@
+
+ Performance counter stats for process id '2938':
+
+       263,347,025      dTLB-loads                                                    (39.76%)
+           348,348      dTLB-load-misses          #    0.13% of all dTLB cache hits   (28.30%)
+        55,413,273      dTLB-stores                                                   (3.17%)
+            37,378      dTLB-store-misses                                             (3.18%)
+         8,794,198      cache-references                                              (3.18%)
+         2,667,126      cache-misses              #   30.328 % of all cache refs      (4.75%)
+     1,272,800,104      cpu-cycles                                                    (6.31%)
+                 0      major-faults                                                
+                 0      minor-faults                                                
+
+      37.001169897 seconds time elapsed
+
