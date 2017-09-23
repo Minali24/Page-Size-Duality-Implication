@@ -1,0 +1,15 @@
+
+ Performance counter stats for process id '19294':
+
+       148,805,822      dTLB-loads                                                    (42.99%)
+         1,033,581      dTLB-load-misses          #    0.69% of all dTLB cache hits   (32.30%)
+        47,305,519      dTLB-stores                                                   (3.17%)
+           236,498      dTLB-store-misses                                             (3.18%)
+         7,774,414      cache-references                                              (3.22%)
+           927,480      cache-misses              #   11.930 % of all cache refs      (4.81%)
+       650,586,800      cpu-cycles                                                    (6.40%)
+                 0      major-faults                                                
+                 0      minor-faults                                                
+
+      26.338102784 seconds time elapsed
+

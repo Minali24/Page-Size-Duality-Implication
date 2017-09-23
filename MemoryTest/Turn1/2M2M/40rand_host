@@ -1,0 +1,15 @@
+
+ Performance counter stats for process id '19981':
+
+        55,310,611      dTLB-loads                                                    (41.39%)
+           119,123      dTLB-load-misses          #    0.22% of all dTLB cache hits   (30.06%)
+         6,133,520      dTLB-stores                                                   (3.07%)
+            22,217      dTLB-store-misses                                             (3.20%)
+         4,586,137      cache-references                                              (3.20%)
+           441,401      cache-misses              #    9.625 % of all cache refs      (4.77%)
+       256,674,888      cpu-cycles                                                    (6.35%)
+                 0      major-faults                                                
+                 0      minor-faults                                                
+
+      16.876097654 seconds time elapsed
+

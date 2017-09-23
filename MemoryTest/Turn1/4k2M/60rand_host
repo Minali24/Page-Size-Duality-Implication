@@ -1,0 +1,15 @@
+
+ Performance counter stats for process id '9784':
+
+       227,490,775      dTLB-loads                                                    (31.15%)
+         1,170,267      dTLB-load-misses          #    0.51% of all dTLB cache hits   (22.59%)
+       115,391,039      dTLB-stores                                                   (20.70%)
+           493,078      dTLB-store-misses                                             (3.69%)
+        21,535,138      cache-references                                              (3.64%)
+         3,961,600      cache-misses              #   18.396 % of all cache refs      (6.97%)
+     2,102,294,327      cpu-cycles                                                    (8.26%)
+                 0      major-faults                                                
+                 0      minor-faults                                                
+
+      31.082207057 seconds time elapsed
+
